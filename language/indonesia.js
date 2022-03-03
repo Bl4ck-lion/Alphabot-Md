@@ -941,7 +941,6 @@ exports.nsfw = (prefix) =>{
 	
 "Allah SWT melaknat orang yang menikahi tangannya (mengambil kesenangan (onani) dengan tangannya). Dan sesungguhnya Allah SWT merusak umat yang bermain alat kemaluan." 
 `
-`
 }
 
 exports.textpro = (prefix) =>{
